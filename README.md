@@ -2,6 +2,8 @@
 
 Please contact Maddison Mellow (maddison.mellow@unisa.edu.au) if you have any questions about the code.
 
+**NOTE: this code is being updated (31/01/2024) and will be uploaded as soon as possible.
+
 The following analysis pipelines were used for our study, "Cross-sectional associations between 24-hour time-use
 composition, grey matter volume and cognitive function in healthy older adults" (currently published as a preprint:
 https://www.medrxiv.org/content/10.1101/2023.05.15.23289982v1).
